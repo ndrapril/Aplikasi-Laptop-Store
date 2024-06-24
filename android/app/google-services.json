@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28745144687",
+    "project_id": "my-kelompok-project",
+    "storage_bucket": "my-kelompok-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28745144687:android:4f57c47d1d65159669709a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uilogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJqPE0t-GCQCG2mqlrG75CZ5zkeAVtx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
