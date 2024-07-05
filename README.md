@@ -11,5 +11,6 @@ Dibangun menggunakan Flutter, aplikasi ini menawarkan antarmuka yang intuitif
 dan fungsionalitas yang komprehensif untuk menyediakan pengalaman berbelanja yang nyaman dan efisien.
 
 **Fitur-Fitur Yang Terdapat Dalam Aplikasi Laptop Store:**
-1.	Tampilan Login 
- ![image](https://github.com/ndrapril/Aplikasi-Laptop-Store/assets/127018056/cb3afe3f-50ea-4f81-bdce-5815c8631395)
+1.Tampilan Login
+![image](https://github.com/ndrapril/Aplikasi-Laptop-Store/assets/127018056/bf39ccd9-8e9f-4649-8346-a4a522110890)
+
