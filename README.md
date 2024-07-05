@@ -4,6 +4,7 @@
 - Moch Ab Rizky 2106041
 
 **Pengertian Aplikasi Laptop Store**
+
 Aplikasi mobile "Laptop Store" adalah sebuah platform digital 
 yang dirancang untuk memudahkan pengguna dalam menelusuri 
 dan membeli berbagai jenis laptop melalui perangkat mobile mereka. 
