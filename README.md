@@ -13,9 +13,10 @@ dan fungsionalitas yang komprehensif untuk menyediakan pengalaman berbelanja yan
 
 **Fitur-Fitur Yang Terdapat Dalam Aplikasi Laptop Store:**
 
-1.Tampilan Login
+Tampilan Login
 
-![image](https://github.com/ndrapril/Aplikasi-Laptop-Store/assets/127018056/329d4167-0199-48a5-abc2-6b254d5b5f63)
+![image](https://github.com/ndrapril/Aplikasi-Laptop-Store/assets/127018056/8ffc84aa-771e-40d9-97fe-3012293abbb9)
 
+Tampilan Register
 
 
